@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Review de Series de Netflix</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="../estilos.css" rel="stylesheet" /> 
+    <style>
+    	*{		
+			padding:0px;
+			margin:0px;
+		}
+    </style>
+    <body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="" >INICIO</a></li>	
+				<li><a href="" >AUTORES</a>
+					<ul>
+						<li><a href="../%C3%81ngel%20Bejarano/informacion.html">Ángel Bejarano</a>
+						</li>				
+						<li><a href="../Antonio%20Rojas/informaci%C3%B3n2.html">Antonio Rojas</a>
+						</li>
+					</ul>
+				</li>
+				
+				<li><a href="" >SERIES DE NETFLIX</a>
+					<ul>
+						<li><a href="../Serie1.html/Serie1.html">Prision Break</a></li>
+						<li><a href="../Serie2.html/Serie2.html">Elite</a></li>
+					</ul>
+				</li>				
+			</ul>	
+		</div>
+	
+<h1 id="inicio">REVIEW DE SERIES DE NETFLIX</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+	 
+	 
+	 
+	 
+</html>
